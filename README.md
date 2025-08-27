@@ -38,4 +38,4 @@ This repository contains a series of hands-on projects developed during the cour
 ## ✍️ Author
 
 [Nathalia Rodrigues](https://github.com/nathrod)  
-Information Systems Student | Focused on Artificial Intelligence and Data Science
+Information Systems Student 
