@@ -29,12 +29,6 @@ This repository contains a series of hands-on projects developed during the cour
 
 ---
 
-## 🚧 Status
-
-🔒 This repository is currently under development and private. It will be made public once the projects are completed and reviewed, with cleaned code and proper documentation.
-
----
-
 ## ✍️ Author
 
 [Nathalia Rodrigues](https://github.com/nathrod)  
