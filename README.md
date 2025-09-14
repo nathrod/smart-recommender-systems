@@ -2,7 +2,7 @@
 
 This repository contains a series of hands-on projects developed during the course **"Build Smarter Recommendation Systems with GenAI and ML."** The goal is to explore classic and modern approaches to building personalized recommendation systems, combining traditional machine learning with cutting-edge NLP and Generative AI techniques.
 
-## 🔧 Technologies and Libraries Used
+## Technologies and Libraries Used
 
 - Python, pandas, scikit-learn, NumPy
 - Hugging Face Transformers (BERT, Sentence-BERT)
@@ -14,7 +14,7 @@ This repository contains a series of hands-on projects developed during the cour
   - Clustering (K-Means, Gaussian Mixture Model)
   - Transformer-based models
 
-## 📚 Projects
+## Projects
 
 | #  | Project | Description |
 |----|---------|-------------|
@@ -28,8 +28,3 @@ This repository contains a series of hands-on projects developed during the cour
 | 08 | Fullstack Django Recommender | Complete movie recommendation web app with history tracking |
 
 ---
-
-## ✍️ Author
-
-[Nathalia Rodrigues](https://github.com/nathrod)  
-Information Systems Student 
